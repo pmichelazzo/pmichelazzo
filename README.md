@@ -5,15 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/pmichelazzo" target="blank"><img src="https://img.shields.io/twitter/follow/pmichelazzo?logo=twitter&style=for-the-badge" alt="pmichelazzo" /></a> </p>
 
-- 🔭 I’m currently working on **European Commission Digital Single Market website**
-
+- 🔭 I’m currently working on **European Commission** with the <a href="https://digital-strategy.ec.europa.eu/en">Digital Strategy website</a>
 - 🌱 I’m currently learning **Arduino, AWS and WPO**
-
+- 👨‍💻 I'm one of the <a href="https://localize.drupal.org/translate/languages/pt-br">Portuguese, Brazil</a> Drupal Translation team admins.
 - 👨‍💻 All of my projects are available at [http://www.michelazzo.com.br](http://www.michelazzo.com.br)
 
 - 💬 Ask me about **How to do the best caipirinha in the world**
 
-- 📫 How to reach me **michelazzo@me.com**
+- 📫 You can reach me using the e-mail **michelazzo@me.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
