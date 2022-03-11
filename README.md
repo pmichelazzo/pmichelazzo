@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning **Arduino, AWS and WPO**
 - 👨‍💻 I'm one of the <a href="https://localize.drupal.org/translate/languages/pt-br">Portuguese, Brazil</a> Drupal Translation team admins.
 - 👨‍💻 All of my projects are available at [http://www.michelazzo.com.br](http://www.michelazzo.com.br)
+- 👨‍💻 You can see a lot of tips & tricks related with Drupal in my <a href="https://gist.github.com/pmichelazzo/">Gist</a> (mostly in pt-br to help the Portuguese community).
 
 - 💬 Ask me about **How to do the best caipirinha in the world**
 
