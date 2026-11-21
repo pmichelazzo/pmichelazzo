@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Paulino</h1>
 <h3 align="center">A back-end Drupal expert (and a barbecue master chief)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pmichelazzo" alt="pmichelazzo" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy-unserori.vercel.app/?username=pmichelazzo&column=3&theme=matrix"></p>
 
 - 🔭 I’m currently working at **European Commission** with the <a href="https://digital-strategy.ec.europa.eu/en">Digital Strategy website</a>
 - 🌱 I’m currently learning **Arduino, AWS and WPO**
